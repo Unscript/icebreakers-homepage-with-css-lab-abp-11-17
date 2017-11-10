@@ -63,7 +63,7 @@ div.jumbotron{
 
 .jumbotron p{
   font-size: 20px;
-padding: /0\s?40px\s?0\s?40px/i
+padding:0 40px 0 40px;
   line-height: 40px;
 }
 div.questions{
